@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#navitem1 {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#navitem2 {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#navitem3 {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#navitem4 {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#navitem5 {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.image-logo {
+    width: 140px;
+    height: 50px;
+}
+
+
+.design-section {
+    background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+    height: 90vh;
+    background-size: cover;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 34px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.description {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.button {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: #0c0521;
+    background-color: #FFDDA9;
+    height: 45px;
+    width: 160px;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.span-item {
+    color: #FFDDA9;
+}
+
+.navitem {
+    background-color: #0c0521;
+}
